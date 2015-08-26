@@ -1,0 +1,19 @@
+﻿
+Place 0,0,EAST
+move
+right
+move
+move
+move
+move 
+left
+move 
+move
+move
+move
+move
+left
+report
+left
+move 
+report

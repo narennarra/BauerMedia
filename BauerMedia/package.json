@@ -1,0 +1,10 @@
+{
+  "name": "BauerMedia",
+  "version": "0.0.0",
+  "description": "BauerMedia",
+  "main": "app.js",
+  "author": {
+    "name": "FieldFix",
+    "email": ""
+  }
+}
